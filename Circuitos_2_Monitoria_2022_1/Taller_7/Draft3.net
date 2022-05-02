@@ -1,0 +1,10 @@
+* C:\Users\Roberto\Documents\GitHub\Circuitos_2022_1\Circuitos_2_Monitoria_2022_1\Taller_7\Draft3.asc
+C1 N002 0 1e-3
+L1 N003 N002 2e-3
+V1 N001 0 SINE(0 100 60) AC 100
+R1 N002 N001 300
+R2 0 N003 100
+;ac list 60
+.tran 0 0.5 0 1000
+.backanno
+.end

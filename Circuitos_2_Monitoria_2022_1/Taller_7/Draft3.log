@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Roberto\Documents\GitHub\Circuitos_2022_1\Circuitos_2_Monitoria_2022_1\Taller_7\Draft3.asc
+
+.OP point found by inspection.
+
+Date: Thu Apr 28 14:51:41 2022
+Total elapsed time: 0.021 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2238
+traniter = 2238
+tranpoints = 1120
+accept = 774
+rejected = 346
+matrix size = 4
+fillins = 0
+solver = Normal
+Matrix Compiler1:       6 opcodes  0.1/[0.0]/0.0
+Matrix Compiler2:      21 opcodes  0.1/[0.1]/0.1
+
